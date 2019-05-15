@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS Praktikum Pemrograman IV</string>
+    <string name="checkout">Checkout</string>
+    <string name="harga_mock">Rp900000</string>
+    <string name="penjualan_laptop">Penjualan RAM</string>
+    <string name="nama_ram">Nama RAM</string>
+    <string name="jumlah_beli">Jumlah Beli</string>
+</resources>
